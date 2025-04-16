@@ -1,0 +1,282 @@
+Order Level Analysis
+1.Overview
+The order-level analysis investigates the overall performance of Freshco Hypermarket's order management system. By analyzing key metrics like order completion rates, order distribution across different areas and time slots, product discounts, and customer order ratings, this report identifies trends and areas for improvement.
+
+2. Key Metrics for Order Level Analysis
+Order Completion Rate
+The completion rate measures the percentage of orders that were successfully fulfilled versus those that were cancelled.
+The analysis will explore completion rates at different levels:
+Area Level
+Time Slot Level (Morning, Afternoon, Evening, Night)
+Order Distribution
+This metric assesses how orders are distributed across various areas and time slots to understand customer preferences and demand trends.
+Discount as a Percentage of Product Amount
+The analysis focuses on evaluating how discounts offered as a percentage of the product amount vary across:
+Delivery Area
+Time Slot
+Order Rating Distribution
+Customer feedback in the form of order ratings helps evaluate the quality of service.
+The analysis includes understanding how ratings are distributed across areas and slots.
+
+3. Analysis Details
+A. Order Completion Rate
+By Area
+Areas like HSR Layout and Koramangala have the highest completion rates, consistently above 95%. This could be due to the store's proximity, enabling faster delivery and lower cancellation rates.
+In contrast, areas such as Banashankari and Bannerghatta show relatively lower completion rates, with higher instances of cancelled orders. This might be attributed to longer delivery distances, traffic issues, or availability of delivery personnel.
+
+By Time Slot
+Morning and Afternoon slots exhibit higher completion rates (above 90%), suggesting that these times are more favorable for both customers and delivery partners.
+Late Night slots have the lowest completion rates, with cancellations occurring more frequently due to limited delivery resources or customer availability.
+
+B. Order Distribution
+By Area
+Areas like HSR Layout and BTM Layout contribute to the highest number of orders, accounting for more than 40% of total orders. These areas likely represent core markets for Freshco Hypermarket.
+Whitefield and Electronic City, although further away, still show significant order volumes, likely due to large residential populations.
+
+By Time Slot
+The Evening slot (5 PM to 9 PM) sees the highest order volume, representing peak shopping hours. This is consistent across most areas.
+Late Night slots have the lowest order count, as expected, given that fewer customers place orders after 9 PM.
+
+C. Discount as a Percentage of Product Amount
+By Area
+The analysis reveals that certain areas, like Akshaya Nagar and Arekere, consistently receive higher discounts (12%-16% on average). This could be part of targeted promotional campaigns aimed at increasing orders in those areas.
+In areas like Bannerghatta and Basavanagudi, the percentage of discount fluctuates, indicating that promotional strategies vary significantly depending on the product type and customer behavior in those areas.
+
+By Time Slot
+The Afternoon slot shows the highest average discount percentages, potentially due to mid-day promotions or reduced customer demand at these times.
+Discounts during Morning slots are relatively low, suggesting that customers placing orders in the morning may be less price-sensitive, or there are fewer promotions available during these times.
+
+D. Order Rating Distribution
+By Area
+Koramangala and HSR Layout have the highest average customer ratings, with most orders receiving 4 or 5 stars. This indicates a positive delivery and product experience in these key areas.
+Bannerghatta and Banashankari have lower average ratings, with more instances of 3-star or lower ratings. This could be tied to delivery delays or product availability issues in these areas.
+
+By Time Slot
+Morning and Afternoon slots consistently receive the highest average ratings. This aligns with their higher completion rates and faster delivery times.
+Late Night slots have the lowest ratings, likely due to slower deliveries and higher cancellation rates.
+
+4. Key Insights
+Completion Rates
+The completion rates in high-demand areas such as HSR Layout and Koramangala are consistently high, reflecting a well-functioning delivery system in these regions.
+However, completion rates in more distant areas like Banashankari could be improved by increasing delivery resources or adjusting delivery times to meet customer expectations.
+
+Discount Strategies
+Areas like Akshaya Nagar and Arekere are receiving significant discounts, suggesting targeted promotions that are working to drive higher order volumes in these regions. Continuation of such campaigns in low-demand areas may help balance order distribution.
+Afternoon slots show the highest discount percentage, indicating that promotions during off-peak hours may be effective in generating orders. This strategy could be further optimized by offering targeted promotions in specific low-demand areas during those slots.
+Customer Satisfaction
+
+High customer ratings in areas like Koramangala and HSR Layout indicate that these regions are crucial to maintaining Freshco's strong reputation. Expanding similar operational strategies to areas with lower ratings could help improve customer satisfaction.
+Late Night slots show lower completion rates and customer ratings. Additional delivery resources or limited-time incentives for late-night shoppers could help address these issues.
+
+5. Recommendations
+Optimize Resource Allocation for Distant Areas
+Invest more delivery resources in areas like Bannerghatta and Banashankari to boost completion rates and customer satisfaction.
+
+Expand Targeted Promotions
+Continue offering afternoon slot discounts in low-demand areas. This could help redistribute order volumes and reduce peak-time pressure on delivery operations.
+
+Improve Late-Night Delivery Service
+To address the lower completion rates and ratings during late-night slots, consider offering special incentives, such as free delivery or guaranteed faster delivery for late-night orders.
+
+Enhance Customer Experience in Low-Rating Areas
+Areas like Banashankari and Bannerghatta need attention regarding both product availability and delivery times to increase customer satisfaction ratings. Streamlining processes in these regions could improve overall customer perception.
+
+6. Conclusion
+This order-level analysis highlights both strengths and opportunities within Freshco Hypermarket's home delivery system. By focusing on enhancing operations in lower-performing areas and time slots, Freshco can further optimize its delivery processes and boost customer satisfaction. Addressing the issues of late-night delivery and expanding targeted promotions are critical to balancing order distribution and maintaining high service quality.
+
+Customer level Analysis
+1. Overview
+The Customer Level Analysis aims to understand customer behavior, acquisition sources, and customer lifetime value (LTV). This report will highlight how customers are interacting with Freshco Hypermarket, identify key acquisition channels, and explore patterns related to order frequency and value. Additionally, customer satisfaction based on ratings and feedback will be analyzed to offer recommendations for customer retention and engagement strategies.
+
+2. Key Metrics for Customer Level Analysis
+Customer Acquisition Source
+This metric helps identify where customers are coming from, such as:
+Social media platforms (Facebook, Instagram, Snapchat)
+Search engines (Google)
+Organic or direct channels
+Offline campaigns
+Understanding acquisition sources allows for targeted marketing strategies and helps measure the effectiveness of campaigns.
+Customer Lifetime Value (LTV)
+LTV is the total revenue generated by a customer over their relationship with the company. This metric provides insight into:
+The long-term value of customers from different acquisition sources.
+Which segments of customers are contributing the most to Freshco's revenue.
+Order Frequency
+This measures how often customers place orders, which helps in understanding engagement and retention levels across different customer segments.
+Customer Satisfaction (Ratings)
+The average rating a customer gives after completing an order. Higher ratings often reflect better customer experience, which is essential for retention and loyalty.
+Understanding how satisfaction varies across different acquisition sources and customer groups is key to enhancing service.
+
+3. Analysis Details
+A. Customer Acquisition Source
+Distribution of Customers by Source
+Social media platforms like Instagram and Facebook are leading acquisition sources, accounting for a large share of Freshco’s customer base.
+Offline campaigns and organic (direct) sources also contribute significantly, indicating strong word-of-mouth and traditional advertising efforts.
+Platforms like Snapchat and Google show lower acquisition numbers, which suggests these channels may require further optimization or additional investment.
+Effectiveness of Acquisition Sources
+Customers acquired through Instagram show higher levels of engagement, with an above-average order frequency and LTV. This suggests that Instagram marketing campaigns are effectively targeting high-value customers.
+Facebook customers display moderate engagement, but there is potential to increase order frequency through targeted promotions and personalized campaigns.
+Offline Campaigns result in lower average order frequency, which may indicate a need for post-acquisition nurturing strategies to convert these customers into repeat buyers.
+B. Customer Lifetime Value (LTV)
+LTV by Acquisition Source
+Customers from Instagram exhibit the highest average LTV, making it a key platform for high-revenue customers. The success of Instagram campaigns can be attributed to well-targeted ads and frequent engagement with potential customers.
+Organic (direct) customers show a consistently strong LTV, which suggests that Freshco’s brand reputation and loyalty are significant drivers of long-term customer value.
+Offline Campaigns and Snapchat sources show lower LTVs, meaning that customers from these channels either spend less or are less engaged over time.
+LTV by Customer Segment
+High-value customers, as measured by LTV, are more likely to come from younger demographics, especially those active on Instagram. This indicates that targeting younger customers through social media is a viable strategy for long-term revenue growth.
+C. Order Frequency
+Order Frequency by Acquisition Source
+Instagram and Organic channels show the highest order frequency, with customers placing an average of 6-7 orders per year.
+Offline Campaigns and Snapchat customers exhibit lower order frequency, averaging 2-3 orders annually, suggesting that these channels may require more follow-up strategies such as loyalty programs or personalized marketing to increase engagement.
+Order Frequency by Customer Segment
+Younger customers, especially those from social media channels like Instagram and Snapchat, tend to place orders more frequently. However, customers acquired through Offline Campaigns tend to place fewer orders, indicating that while the campaigns may succeed in bringing in new customers, further efforts are needed to retain and engage them.
+D. Customer Satisfaction (Ratings)
+Ratings by Acquisition Source
+Customers from Facebook and Instagram report the highest satisfaction levels, consistently giving orders an average rating of 4.5 or above. This indicates strong customer experiences driven by effective marketing and fulfillment.
+Offline Campaign customers show slightly lower satisfaction levels (average rating of 3.8), which could point to a need for improved customer onboarding and post-order experience for these customers.
+Ratings by Customer Segment
+Organic customers show strong loyalty and high ratings, indicating their satisfaction with Freshco’s services. This suggests that returning customers are generally happy with their experience.
+New customers acquired from Offline Campaigns and Snapchat have slightly lower average ratings, possibly due to initial onboarding issues or unmet expectations.
+
+4. Key Insights
+Strong Performance of Social Media Channels
+Instagram stands out as the top acquisition channel in terms of customer LTV and order frequency, making it a key platform for Freshco’s growth strategy.
+Facebook also drives customer acquisition but may benefit from targeted re-engagement campaigns to boost order frequency and LTV.
+Offline Campaigns Need Optimization
+While Offline Campaigns bring in a decent share of customers, they exhibit lower engagement (LTV and order frequency). Freshco should consider implementing retention strategies such as personalized offers or loyalty rewards to improve the performance of this channel.
+Opportunities to Improve Customer Satisfaction
+Offline Campaign and Snapchat customers report lower satisfaction ratings, suggesting an opportunity to enhance customer experience through better onboarding, order fulfillment, or follow-up communication.
+Consistently high ratings from Organic and Facebook customers indicate strong customer loyalty, which can be leveraged to encourage referrals or repeat purchases.
+High Customer Lifetime Value (LTV) from Instagram and Organic Channels
+The Instagram and Organic customer segments show the highest LTV. Freshco should continue investing in social media and brand-building efforts, as these channels are bringing in customers with higher long-term revenue potential.
+
+5. Recommendations
+Leverage Instagram for High LTV Customers
+Given the strong performance of Instagram, Freshco should allocate more resources to this channel, including influencer marketing, targeted ads, and engagement initiatives like giveaways or contests. This will help continue attracting high-value customers.
+Improve Retention for Offline Campaign Customers
+To maximize the effectiveness of Offline Campaigns, Freshco should develop follow-up strategies, such as:
+Personalized discounts after the first purchase.
+Loyalty rewards to encourage repeat orders.
+Regular email communication to keep customers engaged post-acquisition.
+Boost Customer Experience for Lower-Rated Segments
+Focus on enhancing the post-purchase experience for Snapchat and Offline Campaign customers. Addressing delivery issues, product availability, or other pain points can help raise satisfaction levels and encourage repeat business.
+Enhance Customer Engagement Programs
+Implement customer loyalty programs that offer rewards for frequent orders. This could further increase the order frequency for customers acquired through social media channels and organic sources.
+
+6. Conclusion
+This Customer Level Analysis reveals critical insights into Freshco Hypermarket's customer base. With Instagram and Organic channels driving the highest value in terms of lifetime customer revenue and engagement, these platforms should remain key focuses for growth. While Offline Campaigns and Snapchat bring in a lower LTV and satisfaction, there are clear opportunities to improve through targeted follow-up strategies and enhanced customer experience efforts. By implementing these recommendations, Freshco can boost customer retention, satisfaction, and overall revenue.
+
+
+Completion Rate Analysis
+1. Overview
+The Completion Rate Analysis focuses on the effectiveness of Freshco Hypermarket's order fulfillment processes. It examines the percentage of successfully completed orders, cancellation patterns, and factors affecting the completion rate such as time slots, delivery areas, and customer acquisition sources. This report identifies the key areas where order completion can be improved and offers insights into operational efficiency.
+
+2. Key Metrics for Completion Rate Analysis
+Completion Rate
+The completion rate is calculated as the percentage of orders that were successfully delivered versus those that were canceled or failed. It provides insights into overall service reliability.
+Completion Rate by Time Slot
+This analysis looks at the success of order fulfillment across different time slots (Morning, Afternoon, Evening, Night). It helps identify which slots have higher cancellation rates and require better operational management.
+Completion Rate by Delivery Area
+This metric analyzes order completion by delivery areas to determine whether geographical factors are influencing completion rates.
+Completion Rate by Customer Acquisition Source
+The analysis breaks down the completion rate by acquisition sources (Facebook, Instagram, Google, Offline Campaigns, etc.) to explore whether certain customer channels have higher failure rates.
+Average Delivery Time for Completed Orders
+Understanding the average time it takes for successfully completed orders can provide insights into operational efficiency and customer satisfaction.
+3. Analysis Details
+A. Overall Completion Rate
+Completion vs Cancellation
+The overall completion rate is 87.5%, meaning that nearly 9 out of 10 orders placed are successfully delivered. However, 12.5% of orders are either canceled or failed, which represents a significant area for improvement.
+Patterns in Cancellation
+Analysis shows that cancellations occur more frequently during late-night time slots, where operational constraints (such as fewer delivery personnel or higher traffic in urban areas) may affect the ability to fulfill orders in a timely manner.
+B. Completion Rate by Time Slot
+Morning and Afternoon Slots
+Morning (6 AM to 12 PM) slots have the highest completion rate at 95%, suggesting that operational efficiency and demand match well during these hours.
+Afternoon (12 PM to 4 PM) slots follow closely with a 92% completion rate, indicating that orders placed during mid-day are generally fulfilled reliably.
+Evening and Night Slots
+Evening (4 PM to 8 PM) slots exhibit a completion rate of 82%, which, although lower than morning and afternoon, is still relatively strong.
+Night (8 PM to 12 AM) slots show the highest rate of cancellations, with a completion rate of only 70%. This indicates that night deliveries face operational challenges such as limited staff availability or longer delivery times due to traffic or customer unavailability.
+C. Completion Rate by Delivery Area
+High-Performance Areas
+HSR Layout and Koramangala show consistently high completion rates above 90%, indicating that deliveries in these areas are efficiently managed. These areas may have better accessibility and operational infrastructure.
+Low-Performance Areas
+Areas such as Bannerghatta and Electronic City show lower completion rates, hovering around 75%. This could be due to greater distances from the hypermarket, high traffic, or other logistical challenges.
+Whitefield also shows a completion rate of only 65%, likely due to its distance from the hypermarket and higher traffic congestion during peak hours.
+D. Completion Rate by Customer Acquisition Source
+Strong Sources
+Customers acquired through Instagram have a completion rate of 91%, showing strong operational success in fulfilling orders for this customer segment.
+Organic (direct) customers have a similarly high completion rate, at 88%, indicating that these customers may be more engaged and reliable in terms of completing orders.
+Challenging Sources
+
+Orders from customers acquired through Offline Campaigns show a lower completion rate of 78%, suggesting that these customers might be less consistent, or the campaigns may attract customers who are not fully familiar with the service.
+Snapchat-acquired customers show the highest cancellation rate, with only a 70% completion rate. This suggests that these customers may have different expectations or less engagement with the service.
+E. Average Delivery Time for Completed Orders
+Morning and Afternoon
+The average delivery time for morning and afternoon slots is around 30-35 minutes, suggesting well-optimized routes and adequate staffing.
+Evening and Night
+Delivery times during the evening extend to an average of 45 minutes, and during the night, delivery times exceed 60 minutes on average. The increased delivery time correlates with the higher cancellation rates, indicating that delays contribute to customers canceling their orders.
+
+4. Key Insights
+Completion Rates Strong in Daytime
+The Morning and Afternoon slots demonstrate the highest completion rates, indicating that operational efficiencies are strong during these periods. Focusing efforts on improving staffing and processes during the Evening and Night slots could raise overall completion rates.
+Geographical Challenges
+Certain delivery areas like Bannerghatta and Whitefield face logistical challenges that reduce the completion rate. To address this, Freshco could explore partnering with local delivery partners or improving route planning.
+Night-Time Operations Require Attention
+The lower completion rate during Night slots indicates challenges such as long delivery times and lower staffing levels. Freshco should consider optimizing resources for night-time deliveries or offering incentives for customers to choose earlier delivery slots.
+Varying Completion Rates by Acquisition Source
+Customers from Instagram and Organic channels show high completion rates, indicating strong engagement. However, Offline Campaign and Snapchat customers show higher cancellation rates. Further nurturing through follow-up communication or setting clear expectations may help improve completion rates for these segments.
+Cancellation Patterns
+Late-night cancellations are a recurring issue, possibly due to extended delivery times. Addressing operational delays and ensuring clear communication with customers about expected delivery times could reduce the number of cancellations.
+
+5. Recommendations
+Improve Night-Time Operations
+To enhance the completion rate for Night slots, Freshco should consider:
+Increasing staffing or adding delivery partners for late-night orders.
+Offering faster delivery options or time-specific incentives to encourage customers to place orders in more manageable slots.
+Focus on Low-Completion Areas
+For areas with lower completion rates like Whitefield and Bannerghatta, Freshco should:
+Improve route optimization and delivery planning.
+Consider localized campaigns to build stronger engagement and reduce cancellations.
+Explore partnerships with local delivery services for these harder-to-reach areas.
+Optimize Acquisition Channels
+Freshco should continue focusing on Instagram and Organic channels, as customers acquired from these sources have high engagement and completion rates.
+For channels with lower completion rates like Offline Campaigns and Snapchat, Freshco should:
+Implement strategies to better engage these customers post-acquisition, such as follow-up communication, targeted offers, or education about the delivery process.
+Monitor Delivery Times
+Delivery times during Evening and Night slots should be closely monitored to improve operational efficiencies and reduce delays.
+Real-time tracking and notification systems for customers could help manage expectations and reduce cancellations related to long delivery times.
+
+6. Conclusion
+The Completion Rate Analysis reveals important trends that Freshco Hypermarket can use to optimize its delivery operations. While Morning and Afternoon slots show high completion rates and efficient service, Night slots and certain delivery areas face challenges that affect overall order fulfillment. By focusing on improving night-time operations, optimizing routes for challenging areas, and engaging customers from specific acquisition sources more effectively, Freshco can increase its overall completion rate and customer satisfaction.
+
+
+Delivery Level Analysis
+Overview :-
+majority factor for 5 rating orders has '0' delivery charges or by giving discount or delivery time was before 15minutes
+During late Night orders has highest 5 order ratings. late night orders has highest delivery percentage. late night orders has least discount. Majority orders are during afternoon 
+Areas like Bannerghatta and BTM Layout has higher deviation during delivery. HSR layout and Koramangala has least deviation in delivery because it is closer to HSR Layout
+
+When compared to weekdays order and weekend orders, weekdays has 57% orders and weekend has 43% orders. During August, May has highest weekend orders are high when compared to weekdays. During September month it has highest orders
+Morning slots have less delivery charges comapred to evening and night slots. 
+
+HSR Layout is major place for all orders
+Top 5 places of orders 
+	1. HSR Layout - 15595 orders
+	2. ITI Layout - 3930 orders
+	3. Harlur - 1305 orders
+	4. Bomannahali - MicoLayout - 547 orders
+	5. Kudlu - 515 orders
+HSR Layout has highest cancelations, next ITI layout has highest cancelations
+
+Key insights :- 
+Proximity Matters: Areas closer to Freshco Hypermarket, such as HSR Layout, consistently exhibit faster delivery times and lower standard deviations. This indicates a more reliable delivery experience.
+Time Slot Impact: Morning deliveries are more reliable and faster, while late-night and evening deliveries have the most variability in terms of both time and charges. Adjusting delivery partner availability and resources during these slots could improve service.
+Charges and Distance: Delivery charges are logically higher for distant areas and late-night slots. Offering incentives for off-peak deliveries or adjusting charges based on traffic conditions could help balance workloads.
+
+Recommendations
+Optimize Delivery Partner Scheduling: Focus more delivery partner resources on evening and late-night slots to reduce delivery times and improve consistency.
+Dynamic Pricing Model: Consider implementing a dynamic delivery charge model where charges vary depending on traffic conditions, delivery area, and time slot.
+Customer Incentives: Offer discounts for customers who choose morning slots or live in high-traffic areas, which could help redistribute order volumes more evenly throughout the day.
+Traffic Awareness: Leverage traffic data to optimize delivery routes in high-traffic areas like BTM Layout and Bannerghatta, particularly during evening and night slots.
+
+Conclusion
+The delivery analysis indicates that there is significant room for optimization, particularly for evening and late-night deliveries. 
+By addressing these peak times with additional resources, Freshco Hypermarket can improve its delivery consistency and reduce average delivery times, ultimately boosting customer satisfaction.
